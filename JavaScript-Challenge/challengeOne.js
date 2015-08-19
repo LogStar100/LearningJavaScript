@@ -5,3 +5,5 @@ function challengeOne (name, age, userName) {
 }
 
 challengeOne(prompt("What is your name?"), prompt("How old are you?"), prompt("What is your Reddit username?"))
+
+// This challenge came from https://www.reddit.com/r/dailyprogrammer/comments/pih8x/easy_challenge_1/
